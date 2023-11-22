@@ -1,8 +1,6 @@
 /*
  * LEDMG.h
  *
- *  Created on: 23 ene 2022
- *      Author: Godinez
  */
 
 #ifndef PDRIVER_H_
