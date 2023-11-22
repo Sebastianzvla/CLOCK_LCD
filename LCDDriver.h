@@ -1,8 +1,6 @@
 /*
  * LCDDriver.h
  *
- *  Created on:14-Feb-2022
- *      Author: Mario Castañeda
  */
 /******************************************************************************/
 /*Include files                                                             ***/
